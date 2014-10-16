@@ -4,7 +4,7 @@ You can create, get and delete notifications for users and posts.
 
 ##Usage
 
-###get_notifications($id, [target])**
+###get_notifications($id, [target])
 ex.: ``get_notifications(2, 'post')``
 
 You will get user IDs who get notifications for post with ID 2
