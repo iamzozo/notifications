@@ -128,7 +128,7 @@ if (!function_exists('create_notifications')) {
     }
 }
 
-if (!function_exists('create_notifications')) {
+if (!function_exists('get_notifications')) {
     function get_notifications($id, $target)
     {
         global $notification;
